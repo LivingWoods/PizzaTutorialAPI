@@ -1,4 +1,4 @@
-﻿namespace TutorialAPI.models;
+﻿namespace TutorialAPI.Models;
 
 public class Pizza
 {

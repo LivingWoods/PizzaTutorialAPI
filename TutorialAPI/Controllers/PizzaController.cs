@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TutorialAPI.services;
-using TutorialAPI.models;
+using TutorialAPI.Services;
+using TutorialAPI.Models;
 
 namespace TutorialAPI.Controllers;
 

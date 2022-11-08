@@ -1,6 +1,6 @@
-﻿using TutorialAPI.models;
+﻿using TutorialAPI.Models;
 
-namespace TutorialAPI.services;
+namespace TutorialAPI.Services;
 
 public class PizzaService
 {
